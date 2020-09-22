@@ -1,3 +1,3 @@
-# in-class sampler project scaffold
+# HipHop Melody Samples
 
 including howler.js
